@@ -8,7 +8,8 @@ hate my ~~useless~~ college
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rerokai&layout=compact&theme=graywhite)
 
-![C Bandge](./resourse/c.png) ![Go Bandge](./resourse/go.png) ![Bach Bange](./resourse/bash.png) ![Docker Bandge](./resourse/docker.png) ![Postgressql Bange](./resourse/postgres.png) ![Arch Bange](./resourse/arch.png) ![Ubuntu Bange](./resourse/ubuntu.png) ![Arduino Bange](./resourse/arduino.png) ![Raspberrypi Bange](./resourse/raspberrypi.png) ![Apache Bange](./resourse/apache.png) ![Aws Bange](./resourse/aws.png) ![Terraform Bange](./resourse/terraform.png)
+![C Bandge](./resourse/c.png) ![Go Bandge](./resourse/go.png) ![Bach Bange](./resourse/bash.png) ![Docker Bandge](./resourse/docker.png) ![Postgressql Bange](./resourse/postgres.png) ![Arch Bange](./resourse/arch.png)  
+![Ubuntu Bange](./resourse/ubuntu.png) ![Arduino Bange](./resourse/arduino.png) ![Raspberrypi Bange](./resourse/raspberrypi.png) ![Apache Bange](./resourse/apache.png) ![Aws Bange](./resourse/aws.png) ![Terraform Bange](./resourse/terraform.png)
 
 
 
