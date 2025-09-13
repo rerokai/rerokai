@@ -8,3 +8,6 @@
 ![alt text](postgres.png)
 ![alt text](raspberrypi.png)
 ![alt text](ubuntu.png)
+![alt text](apache.png)
+![alt text](terraform.png)
+![alt text](aws.png)
