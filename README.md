@@ -4,7 +4,7 @@ i'm software & hardware engineer
 love linux, robotics, computer networking  
 my tg > [@rerokai](https://t.me/rerokai) 
   
-![rerokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=rerokai&show_icons=true&theme=graywhite) 
+
 
 development stack^^  
 
