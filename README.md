@@ -4,11 +4,7 @@ i'm software & hardware engineer
 love linux, robotics, computer networking  
 my tg > [@rerokai](https://t.me/rerokai)     
 
-    
-  
-![40d6b081ecc70339aaf9632d50df5b9f](https://github.com/user-attachments/assets/1ef072d1-8032-4030-ba40-ac926296d3c5)
-
-
+![ce6bafdb160aa08d4fbb3c2a1894d568](https://github.com/user-attachments/assets/96cab4f2-dd4d-4252-a88d-2733dcd56301)
 
 development stack^^  
 
