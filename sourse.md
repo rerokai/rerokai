@@ -11,3 +11,6 @@
 ![alt text](apache.png)
 ![alt text](terraform.png)
 ![alt text](aws.png)
+![alt text](react.png)
+![alt text](ansible.png)
+![alt text](gitlab.png)
