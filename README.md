@@ -8,9 +8,9 @@ my tg > [@rerokai](https://t.me/rerokai)
 
 development stack^^  
 
-![C Bandge](./resourse/c.png) ![Go Bandge](./resourse/go.png) ![Bach Bange](./resourse/bash.png) ![Docker Bandge](./resourse/docker.png) ![Cuber Bange](./resourse/cuber.png) ![Postgressql Bange](./resourse/postgres.png)  
-![Arch Bange](./resourse/arch.png) ![Ubuntu Bange](./resourse/ubuntu.png) ![Arduino Bange](./resourse/arduino.png) ![Raspberrypi Bange](./resourse/raspberrypi.png) ![Aws Bange](./resourse/aws.png) ![Terraform Bange](./resourse/terraform.png)
-
+![Go Bandge](./resourse/ansible.png) ![Docker Bandge](./resourse/docker.png) ![Ubuntu Bange](./resourse/gitlab.png) ![Cuber Bange](./resourse/cuber.png) ![Bach Bange](./resourse/bash.png)  ![Postgressql Bange](./resourse/postgres.png)  
+![Arch Bange](./resourse/arch.png) ![Raspberrypi Bange](./resourse/prometheus.png) ![Arduino Bange](./resourse/arduino.png) ![Terraform Bange](./resourse/terraform.png)
+![C Bandge](./resourse/react.png) 
 
 
 
